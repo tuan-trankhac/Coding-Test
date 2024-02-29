@@ -1,0 +1,3 @@
+- The Problem1.cpp solves the parenthetical balance problem
+- The Problem1.cpp solves the problem of soccer scores
+- The Problem1.cpp solves the diablo games
